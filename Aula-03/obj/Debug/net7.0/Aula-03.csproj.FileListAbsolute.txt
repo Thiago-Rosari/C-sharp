@@ -1,0 +1,14 @@
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-03\bin\Debug\net7.0\Aula-03.exe
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-03\bin\Debug\net7.0\Aula-03.deps.json
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-03\bin\Debug\net7.0\Aula-03.runtimeconfig.json
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-03\bin\Debug\net7.0\Aula-03.dll
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-03\bin\Debug\net7.0\Aula-03.pdb
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-03\obj\Debug\net7.0\Aula-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-03\obj\Debug\net7.0\Aula-03.AssemblyInfoInputs.cache
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-03\obj\Debug\net7.0\Aula-03.AssemblyInfo.cs
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-03\obj\Debug\net7.0\Aula-03.csproj.CoreCompileInputs.cache
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-03\obj\Debug\net7.0\Aula-03.dll
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-03\obj\Debug\net7.0\refint\Aula-03.dll
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-03\obj\Debug\net7.0\Aula-03.pdb
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-03\obj\Debug\net7.0\Aula-03.genruntimeconfig.cache
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-03\obj\Debug\net7.0\ref\Aula-03.dll

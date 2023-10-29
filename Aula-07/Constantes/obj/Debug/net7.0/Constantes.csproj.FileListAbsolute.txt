@@ -1,0 +1,14 @@
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-07\Constantes\bin\Debug\net7.0\Constantes.exe
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-07\Constantes\bin\Debug\net7.0\Constantes.deps.json
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-07\Constantes\bin\Debug\net7.0\Constantes.runtimeconfig.json
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-07\Constantes\bin\Debug\net7.0\Constantes.dll
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-07\Constantes\bin\Debug\net7.0\Constantes.pdb
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-07\Constantes\obj\Debug\net7.0\Constantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-07\Constantes\obj\Debug\net7.0\Constantes.AssemblyInfoInputs.cache
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-07\Constantes\obj\Debug\net7.0\Constantes.AssemblyInfo.cs
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-07\Constantes\obj\Debug\net7.0\Constantes.csproj.CoreCompileInputs.cache
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-07\Constantes\obj\Debug\net7.0\Constantes.dll
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-07\Constantes\obj\Debug\net7.0\refint\Constantes.dll
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-07\Constantes\obj\Debug\net7.0\Constantes.pdb
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-07\Constantes\obj\Debug\net7.0\Constantes.genruntimeconfig.cache
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-07\Constantes\obj\Debug\net7.0\ref\Constantes.dll

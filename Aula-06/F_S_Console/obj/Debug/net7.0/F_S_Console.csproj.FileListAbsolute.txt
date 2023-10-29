@@ -1,0 +1,14 @@
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-06\F_S_Console\bin\Debug\net7.0\F_S_Console.exe
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-06\F_S_Console\bin\Debug\net7.0\F_S_Console.deps.json
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-06\F_S_Console\bin\Debug\net7.0\F_S_Console.runtimeconfig.json
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-06\F_S_Console\bin\Debug\net7.0\F_S_Console.dll
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-06\F_S_Console\bin\Debug\net7.0\F_S_Console.pdb
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-06\F_S_Console\obj\Debug\net7.0\F_S_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-06\F_S_Console\obj\Debug\net7.0\F_S_Console.AssemblyInfoInputs.cache
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-06\F_S_Console\obj\Debug\net7.0\F_S_Console.AssemblyInfo.cs
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-06\F_S_Console\obj\Debug\net7.0\F_S_Console.csproj.CoreCompileInputs.cache
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-06\F_S_Console\obj\Debug\net7.0\F_S_Console.dll
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-06\F_S_Console\obj\Debug\net7.0\refint\F_S_Console.dll
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-06\F_S_Console\obj\Debug\net7.0\F_S_Console.pdb
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-06\F_S_Console\obj\Debug\net7.0\F_S_Console.genruntimeconfig.cache
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-06\F_S_Console\obj\Debug\net7.0\ref\F_S_Console.dll

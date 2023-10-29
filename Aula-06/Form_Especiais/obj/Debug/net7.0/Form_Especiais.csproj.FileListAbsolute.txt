@@ -1,0 +1,14 @@
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-06\Form_Especiais\bin\Debug\net7.0\Form_Especiais.exe
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-06\Form_Especiais\bin\Debug\net7.0\Form_Especiais.deps.json
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-06\Form_Especiais\bin\Debug\net7.0\Form_Especiais.runtimeconfig.json
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-06\Form_Especiais\bin\Debug\net7.0\Form_Especiais.dll
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-06\Form_Especiais\bin\Debug\net7.0\Form_Especiais.pdb
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-06\Form_Especiais\obj\Debug\net7.0\Form_Especiais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-06\Form_Especiais\obj\Debug\net7.0\Form_Especiais.AssemblyInfoInputs.cache
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-06\Form_Especiais\obj\Debug\net7.0\Form_Especiais.AssemblyInfo.cs
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-06\Form_Especiais\obj\Debug\net7.0\Form_Especiais.csproj.CoreCompileInputs.cache
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-06\Form_Especiais\obj\Debug\net7.0\Form_Especiais.dll
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-06\Form_Especiais\obj\Debug\net7.0\refint\Form_Especiais.dll
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-06\Form_Especiais\obj\Debug\net7.0\Form_Especiais.pdb
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-06\Form_Especiais\obj\Debug\net7.0\Form_Especiais.genruntimeconfig.cache
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-06\Form_Especiais\obj\Debug\net7.0\ref\Form_Especiais.dll

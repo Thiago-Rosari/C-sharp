@@ -1,0 +1,14 @@
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-08\Valor-teclado\bin\Debug\net7.0\Valor-teclado.exe
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-08\Valor-teclado\bin\Debug\net7.0\Valor-teclado.deps.json
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-08\Valor-teclado\bin\Debug\net7.0\Valor-teclado.runtimeconfig.json
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-08\Valor-teclado\bin\Debug\net7.0\Valor-teclado.dll
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-08\Valor-teclado\bin\Debug\net7.0\Valor-teclado.pdb
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-08\Valor-teclado\obj\Debug\net7.0\Valor-teclado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-08\Valor-teclado\obj\Debug\net7.0\Valor-teclado.AssemblyInfoInputs.cache
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-08\Valor-teclado\obj\Debug\net7.0\Valor-teclado.AssemblyInfo.cs
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-08\Valor-teclado\obj\Debug\net7.0\Valor-teclado.csproj.CoreCompileInputs.cache
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-08\Valor-teclado\obj\Debug\net7.0\Valor-teclado.dll
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-08\Valor-teclado\obj\Debug\net7.0\refint\Valor-teclado.dll
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-08\Valor-teclado\obj\Debug\net7.0\Valor-teclado.pdb
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-08\Valor-teclado\obj\Debug\net7.0\Valor-teclado.genruntimeconfig.cache
+C:\Users\th_ma\Documentos\ESTUDOS\CFB-Cursos\C-sharp\Aula-08\Valor-teclado\obj\Debug\net7.0\ref\Valor-teclado.dll
